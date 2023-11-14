@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/Philipp15b/go-steam/v3/cryptoutil"
-	"github.com/Philipp15b/go-steam/v3/protocol"
-	"github.com/Philipp15b/go-steam/v3/protocol/protobuf"
-	"github.com/Philipp15b/go-steam/v3/protocol/steamlang"
+	"github.com/KaoriEl/go-steam/v3/cryptoutil"
+	"github.com/KaoriEl/go-steam/v3/protocol"
+	"github.com/KaoriEl/go-steam/v3/protocol/protobuf"
+	"github.com/KaoriEl/go-steam/v3/protocol/steamlang"
 	"google.golang.org/protobuf/proto"
 )
 
